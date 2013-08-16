@@ -4,8 +4,3 @@ rvm:
   - 1.9.3
 notifications:
   
-email:
-    recipients:
-      -vidyar@qhode.com 
-          on_success: change
-    on_failure: change
